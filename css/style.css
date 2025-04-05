@@ -1,0 +1,36 @@
+body {
+    font-family: 'Segoe UI';
+    font-size: 90%;
+}
+
+header {
+    background-color: rgba(68, 221, 127, 0.952);
+}
+
+nav {
+    background-color: rgb(39, 194, 98);
+}
+
+main {
+    background-color: rgba(109, 186, 231, 0.8);
+    font-size: 80%;
+}
+
+footer {
+    background-color: rgba(185, 71, 238, 0.76);
+}
+
+li {
+    display: inline-block;
+    width: 30%;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Sans';
+    color: rgba(51, 117, 216, 0.945);
+}
+
+p {
+    line-height: 200%;
+}
